@@ -409,3 +409,4 @@ main p,main li,main h1,main h2,main h3,.site-footer address,.site-footer a,.faq_
 .dropmenu__list a{padding:7px 10px;font-size:.93rem;white-space:normal}
 .dropmenu--mega .dropmenu__all{grid-column:1 / -1}
 @media (min-width:769px) and (max-width:1020px){.site-header__actions .btn{display:none}.nav-links a,.nav-links .nav-drop__btn{padding:10px 9px}}
+@media (max-width:340px){.site-header__actions{gap:8px}.menu-toggle{width:42px;height:42px}.site-logo img{height:32px}}
